@@ -1,0 +1,17 @@
+# Godot cache folders
+.import/
+.export/
+.export-debug/
+*.import
+
+# Temporary and log files
+*.log
+*.tmp
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# OS system files
+.DS_Store
+Thumbs.db
